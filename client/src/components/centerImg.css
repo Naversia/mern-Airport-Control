@@ -1,0 +1,14 @@
+.container {
+  vertical-align: middle;
+  width: 100vw;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: center;
+  padding-top: 0%;
+}
+/* .container img{
+  width: 100%;
+} */

@@ -1,0 +1,95 @@
+{
+  "airplanes": [
+    {
+      "airplaneId": 1001,
+      "airplaneName": "el-al a",
+      "station": 1,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1002,
+      "airplaneName": "African Airlines",
+      "station": 2,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1003,
+      "airplaneName": "Thai Air",
+      "station": 3,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1004,
+      "airplaneName": "Aegean Airlines",
+      "station": 2,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1005,
+      "airplaneName": "Swiss Air",
+      "station": 2,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1006,
+      "airplaneName": "Jet Lines",
+      "station": 1,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1007,
+      "airplaneName": "Mozambique Airlines",
+      "station": 2,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1008,
+      "airplaneName": "Air China",
+      "station": 1,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1009,
+      "airplaneName": "React Air",
+      "station": 2,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1010,
+      "airplaneName": "Canada Air",
+      "station": 1,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1011,
+      "airplaneName": "Air Cairo",
+      "station": 2,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1012,
+      "airplaneName": "Airjet",
+      "station": 1,
+      "isReady": true,
+      "passedLanding": false
+    },
+    {
+      "airplaneId": 1013,
+      "airplaneName": "Luftansa",
+      "station": 1,
+      "isReady": true,
+      "passedLanding": false
+    }
+  ]
+}
